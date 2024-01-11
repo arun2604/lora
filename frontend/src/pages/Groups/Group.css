@@ -1,0 +1,135 @@
+.wrapper {
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+  padding: 20px 10px 10px 10px;
+}
+.detailsWrapper{
+    margin: 0;
+    padding: 0;
+    height: 87.5vh;
+    width: 100%;
+    overflow-x: hidden;
+    margin-bottom: 20px;
+}
+.innerWrapper {
+    margin: 5px 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.headingContainer{
+    display: flex;
+    align-items: center;
+    width: 101.5%;
+}
+.groupMemberTitle{
+    display: flex;
+    margin-left: 3%;
+    margin-bottom: 2%;
+}
+.tableHeading {
+    font-weight: 700;
+}
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.addgroup{
+    background-color: #eee;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+.groupWrapper {
+    background-color: #fff;
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px #565555b4;
+}
+.groupBtn {
+    width: 95%;
+}
+.inputBox{
+    margin-bottom: 15px;
+}
+.groupContainer{
+    margin-top: 15px;
+    height: 80px;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.membersContainer{
+    display: flex;
+    width: 400px;
+    flex-direction: row;
+    margin-top: 15px;
+    margin-right: 13px;
+    background-color: beige;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+.member {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0.4;
+}
+.deleteButtonContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8px;
+    justify-content: center;
+}
+.memberOuterContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 15px;
+    width: 100%;
+}
+.headingContainer{
+    width: 96%;
+    margin-left: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+.fab{
+    display: flex;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+}
+.chipContainer {
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.deviceWrapper{
+    margin: 9px 5px;
+    cursor: pointer;
+    display: flex;
+    height: 36px !important;
+}
+.dialougeContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1002;
+}

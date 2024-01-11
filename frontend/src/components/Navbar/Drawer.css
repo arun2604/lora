@@ -1,0 +1,18 @@
+.drawer-width{
+  min-width: 30%;
+}
+
+.item-list {
+  padding: 10px 10px !important;
+}
+
+.active-item {
+  background-color: #1e88e5 !important;
+  color: #fff !important;
+  border-radius: 20px !important;
+  cursor: default;
+}
+
+.inactive-item{
+  cursor: pointer;
+}
