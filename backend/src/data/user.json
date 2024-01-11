@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "userRoleName": "Admin",
+      "name": "System Admin",
+      "mobileNumber": "1234567890",
+      "email": "systemadmin@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "userRoleName": "User",
+      "name": "System User",
+      "mobileNumber": "1234567890",
+      "email": "systemuser@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}

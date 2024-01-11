@@ -1,0 +1,14 @@
+{
+  "company": [
+    {
+      "name": "PM Square",
+      "email": "pmsquare@gmail.com",
+      "mobileNumber": "9876543210",
+      "landmark": "Mullai Nagar",
+      "city": "Vadavalli",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zipCode": "641041"
+    }
+  ]
+}

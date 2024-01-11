@@ -1,0 +1,12 @@
+{
+  "userRole": [
+    {
+      "name": "Admin",
+      "permissions": [{ "permissionName": "PERMISSION_DASHBOARD_VIEW" }]
+    },
+    {
+      "name": "User",
+      "permissions": [{ "permissionName": "PERMISSION_PROFILE_VIEW" }]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "permission": [{ "name": "PERMISSION_DASHBOARD_VIEW" }, { "name": "PERMISSION_PROFILE_VIEW" }]
+}
